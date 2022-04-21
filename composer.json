@@ -3,8 +3,7 @@
     "description": "Package for show domain information",
     "type": "library",
     "require": {
-        "laravel/laravel": "8.0",
-        "php": "^7.3"
+        "laravel/laravel": "8.0"
     },
     "license": "MIT",
     "minimum-stability": "dev",
