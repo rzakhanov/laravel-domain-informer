@@ -11,5 +11,5 @@
 
 **Screenshot**
 
-![ScreenShot](/example/Screen.png)
+![ScreenShot](example/Screen.png)
 
