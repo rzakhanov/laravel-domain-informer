@@ -1,0 +1,21 @@
+{
+    "name": "rzakhanov/domain-informer",
+    "description": "Package for show domain information",
+    "type": "library",
+    "require": {
+        "laravel/laravel": "8.0",
+        "php": "7.4"
+    },
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Rzakhanov\\DomainInformer\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": "Rzakhanov\\DomainInformer\\DomainServiceProvider"
+        }
+    }
+}
