@@ -9,7 +9,7 @@
 > Route for  package look in site
 **{host}/info**
 
-**Screenshot**
+**Preview**
 
 ![ScreenShot](example/Screen.png)
 
